@@ -3,10 +3,6 @@
   text-align: center; 
 }
 
-.attribution a { 
-  color: hsl(228, 45%, 44%); 
-}
-
 body {
   font-family: 'Hanken Grotesk', sans-serif;
   display: flex;
